@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{64F088B6-40CC-0735-92B6-A89A087A05EB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MPTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
